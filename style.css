@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+header {
+    background-color: #003366;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+.logo {
+    width: 100px;
+    height: auto;
+}
+main {
+    padding: 2rem;
+}
+section {
+    max-width: 800px;
+    margin: auto;
+}
+ul {
+    line-height: 1.6;
+}

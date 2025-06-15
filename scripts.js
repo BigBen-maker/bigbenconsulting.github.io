@@ -1,0 +1,1 @@
+console.log('Big Ben Consulting website loaded successfully');
